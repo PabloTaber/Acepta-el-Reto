@@ -35,3 +35,4 @@
 | 160    | [Matrices triangulares](https://aceptaelreto.com/problem/statement.php?id=160) | [📐](./Resueltos/160/A160.java) |
 | 161    | [Cálculo de la Mediana](https://aceptaelreto.com/problem/statement.php?id=161) | [🔢](./Resueltos/161/A161.java) |
 | 162    | [Tableros de Ajedrez](https://aceptaelreto.com/problem/statement.php?id=162) | [♔♕♖♗♘♙](./Resueltos/162/A162.java) |
+| 165    | [Número hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [🔢](./Resueltos/165/A165.java) |
