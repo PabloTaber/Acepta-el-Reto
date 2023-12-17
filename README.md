@@ -10,7 +10,7 @@
 
 - [**Problema 100:** Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) 🔢
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](https://github.com/PabloTaber/Acepta-el-Reto/blob/aa0371082525227dec022c306dc1a291b509d429/100%20-%20Constante%20de%20Kaprekar/A100.java)
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./100/A100.java)
 - [**Problema 102:** Encriptación de mensajes](https://aceptaelreto.com/problem/statement.php?id=102) 🔐 
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](https://github.com/PabloTaber/Acepta-el-Reto/blob/1830db477f694a022de5213f87afb1ab15c61921/102%20-%20Encriptaci%C3%B3n%20Mensajes/A102.java)
@@ -18,3 +18,7 @@
 - [**Problema 105:** Ventas](https://aceptaelreto.com/problem/statement.php?id=105) 📊
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](https://github.com/PabloTaber/Acepta-el-Reto/blob/feb0cf5fe8d8798c238ac53539308d628eacbab3/105%20-%20Ventas/A105.java)
+
+- [**Problema 109:** Liga de Padel](https://aceptaelreto.com/problem/statement.php?id=109) 🎾
+
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](https://github.com/PabloTaber/Acepta-el-Reto/blob/50278c14c179552e7f641f356a4547994b9b5a54/109%20-%20Liga%20Padel/A109.java)
