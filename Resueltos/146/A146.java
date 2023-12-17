@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class a146 {
+public class A146 {
     public static void main(String[] args) throws Exception {
         List<Integer> lista = new ArrayList<>();
         List<Integer> aux = new ArrayList<>();
