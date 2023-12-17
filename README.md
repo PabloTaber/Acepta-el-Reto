@@ -30,3 +30,4 @@
 | 152    | [Va de modas...](https://aceptaelreto.com/problem/statement.php?id=152) | [🔢👠](./Resueltos/152/A152.java) |
 | 155    | [Perímetro de un rectángulo](https://aceptaelreto.com/problem/statement.php?id=155) | [📐](./Resueltos/155/A155.java) |
 | 156    | [Ascensor](https://aceptaelreto.com/problem/statement.php?id=156) | [🛗](./Resueltos/156/A156.java) |
+| 158    | [Los Saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [⬆️⬇️](./Resueltos/158/A158.java) |
