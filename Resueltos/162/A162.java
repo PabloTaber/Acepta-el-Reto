@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
-public class Ajedrez {
+public class A162 {
+    public static final int TAMAÑO_TABLERO = 8;
     
     static void dibujarLineaBorde(int tamaño) {
         System.out.print("|");
-        for (int i=0; i < (8*tamaño); i++){
+        for (int i=0; i < (TAMAÑO_TABLERO*tamaño); i++){
             System.out.print("-");
         }
         System.out.println("|");
@@ -12,7 +13,7 @@ public class Ajedrez {
 
     static void dibujarLineaBlanca(int tamaño, char c) {
         System.out.print("|");
-        for (int i=0; i < 8; i++) {
+        for (int i=0; i < TAMAÑO_TABLERO; i++) {
             if (i % 2 == 0) {
                 for (int j=0; j < tamaño; j++) {
                     System.out.print(" ");
@@ -28,7 +29,7 @@ public class Ajedrez {
 
     static void dibujarLineaNegra(int tamaño, char c) {
         System.out.print("|");
-        for (int i=0; i < 8; i++) {
+        for (int i=0; i < TAMAÑO_TABLERO; i++) {
             if (i % 2 == 0) {
                 for (int j=0; j < tamaño; j++) {
                     System.out.print(c);
@@ -50,7 +51,7 @@ public class Ajedrez {
         while (tamaño != 0) {
             char c = sc.next().charAt(0);
             dibujarLineaBorde(tamaño);
-            for (int i=0; i < 4; i++) {
+            for (int i=0; i < TAMAÑO_TABLERO / 2; i++) {
                 for (int j=0; j < tamaño; j++) {
                     dibujarLineaBlanca(tamaño, c);
                 }

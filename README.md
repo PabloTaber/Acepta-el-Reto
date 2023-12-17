@@ -34,3 +34,4 @@
 | 158    | [Los Saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [⬆️⬇️](./Resueltos/158/A158.java) |
 | 160    | [Matrices triangulares](https://aceptaelreto.com/problem/statement.php?id=160) | [📐](./Resueltos/160/A160.java) |
 | 161    | [Cálculo de la Mediana](https://aceptaelreto.com/problem/statement.php?id=161) | [🔢](./Resueltos/161/A161.java) |
+| 162    | [Tableros de Ajedrez](https://aceptaelreto.com/problem/statement.php?id=162) | [🔢](./Resueltos/162/A162.java) |
