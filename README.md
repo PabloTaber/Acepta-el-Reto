@@ -27,3 +27,4 @@
 | 146    | [Números Afortunados](https://aceptaelreto.com/problem/statement.php?id=146) | [🔢🍀](./Resueltos/146/A146.java) |
 | 148    | [Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148) | [🎉🍾](./Resueltos/148/A148.java) |
 | 151    | [¿Es Matriz Identidad?](https://aceptaelreto.com/problem/statement.php?id=151) | [🔄](./Resueltos/151/A151.java) |
+| 152    | [Va de modas...](https://aceptaelreto.com/problem/statement.php?id=152) | [🔢👠](./Resueltos/152/A152.java) |
