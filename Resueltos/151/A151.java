@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Identidad {
+public class A151 {
     public static void main(String[] args) throws Exception {
         
         Scanner sc = new Scanner(System.in);
