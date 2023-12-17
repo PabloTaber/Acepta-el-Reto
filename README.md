@@ -6,35 +6,24 @@
 
 [Acepta el Reto](https://acepta-el-reto.com/) es una plataforma en línea que ofrece una colección de desafíos de programación y algorítmicos. Los problemas abarcan una amplia gama de dificultades, desde principiante hasta avanzado.
 
-## Enlaces a los problemas resueltos:
+## Enlaces de los problemas resueltos:
 
-- [**Problema 100:** Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) 🔢
+| Número | Enunciado              | Solución                               |
+|:------:|-------------------------|:--------------------------------------:|
+| 100 | [Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) | [🔢](./Resueltos/100/A100.java) |
+| 102    | [Encriptación de Mensajes](https://aceptaelreto.com/problem/statement.php?id=102) | [🔐](./Resueltos/102/A102.java)       |
+| 105    | [Ventas](https://aceptaelreto.com/problem/statement.php?id=105)                 | [📊](./Resueltos/105/A105.java)       |
+| 109    | [Liga de Padel](https://aceptaelreto.com/problem/statement.php?id=109)           | [🎾](./Resueltos/109/A109.java)       |
+| 116    | [Hola Mundo!](https://aceptaelreto.com/problem/statement.php?id=116)             | [👋🌎](./Resueltos/116/A116.java)     |
+| 117    | [La Fiesta Aburrida](https://aceptaelreto.com/problem/statement.php?id=117)       | [🎉😔](./Resueltos/117/A117.java)     |
+| 121    | [Chicles de Regalo](https://aceptaelreto.com/problem/statement.php?id=121)        | [🍬🎁](./Resueltos/121/A121.java)     |
+| 122    | [Avituallamiento en las Etapas Ciclistas](https://aceptaelreto.com/problem/statement.php?id=122) | [🚴‍♂️](./Resueltos/122/A122.java) |
+| 123    | [Conjugar Verbos](https://aceptaelreto.com/problem/statement.php?id=123) | [📝](./Resueltos/123/A123.java) |
+| 124    | [¿Cuántas me llevo?](https://aceptaelreto.com/problem/statement.php?id=124) | [🔢](./Resueltos/124/A124.java) |
+| 127    | [Una, dola, tela, catola...](https://aceptaelreto.com/problem/statement.php?id=127) | [1️⃣, 2️⃣, 3️⃣,...](./Resueltos/127/A127.java) |
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/100/A100.java)
-- [**Problema 102:** Encriptación de Mensajes](https://aceptaelreto.com/problem/statement.php?id=102) 🔐 
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/102/A102.java)
 
-- [**Problema 105:** Ventas](https://aceptaelreto.com/problem/statement.php?id=105) 📊
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/105/A105.java)
 
-- [**Problema 109:** Liga de Padel](https://aceptaelreto.com/problem/statement.php?id=109) 🎾
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/109/A109.java)
-
-- [**Problema 116:** Hola Mundo!](https://aceptaelreto.com/problem/statement.php?id=116) 👋🌎
-
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/116/A116.java)
-
-- [**Problema 117:** La Fiesta Aburrida](https://aceptaelreto.com/problem/statement.php?id=117) 🎉😔
-
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/117/A117.java)
-
-- [**Problema 121:** Chicles de Regalo](https://aceptaelreto.com/problem/statement.php?id=121) 🍬🎁
-
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/121/A121.java)
-
-  - [**Problema 122:** Avituallamiento en las Etapas Ciclistas](https://aceptaelreto.com/problem/statement.php?id=122) 🚴‍♂️
-
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/122/A122.java)
