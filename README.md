@@ -28,4 +28,4 @@
 | 148    | [Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148) | [🎉🍾](./Resueltos/148/A148.java) |
 | 151    | [¿Es Matriz Identidad?](https://aceptaelreto.com/problem/statement.php?id=151) | [🔄](./Resueltos/151/A151.java) |
 | 152    | [Va de modas...](https://aceptaelreto.com/problem/statement.php?id=152) | [🔢👠](./Resueltos/152/A152.java) |
-| 155    | [Perímetro de un rectángulo](https://aceptaelreto.com/problem/statement.php?id=155) | [🔢👠](./Resueltos/155/A155.java) |
+| 155    | [Perímetro de un rectángulo](https://aceptaelreto.com/problem/statement.php?id=155) | [📐](./Resueltos/155/A155.java) |
