@@ -25,6 +25,4 @@
 | 141    | [Paréntesis Balanceados](https://aceptaelreto.com/problem/statement.php?id=141) | [`(`⚖️`)`](./Resueltos/141/A141.java) |
 | 143    | [Tortitas](https://aceptaelreto.com/problem/statement.php?id=143) | [🥞](./Resueltos/143/A143.java) |
 | 146    | [Números Afortunados](https://aceptaelreto.com/problem/statement.php?id=146) | [🔢🍀](./Resueltos/146/A146.java) |
-
-
-
+| 148    | [Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148) | [🎉🍾](./Resueltos/148/A148.java) |
