@@ -3,59 +3,57 @@ import java.util.Scanner;
 
 public class A100 {
 
-    public static String OrdenarAscendente(String cadena) {
-        char[] aux = cadena.toCharArray();
-        Arrays.sort(aux);
-        return new String(aux);
+    public static String OrdenarAscendente(String numero) {
+        char[] caracteresOrdenados = numero.toCharArray();
+        Arrays.sort(caracteresOrdenados);
+        return new String(caracteresOrdenados);
     }
 
-    public static String OrdenarDescendente(String cadena) {
-        cadena = OrdenarAscendente(cadena);
-        String aux = "";
+    public static String OrdenarDescendente(String numero) {
+        numero = OrdenarAscendente(numero);
+        String caracteresOrdenados = "";
 
-        for (int i = 0; i < cadena.length(); i++) {
-            aux = cadena.charAt(i) + aux;
+        for (int i = 0; i < numero.length(); i++) {
+            caracteresOrdenados = numero.charAt(i) + caracteresOrdenados;
         }
 
-        return aux;
+        return caracteresOrdenados;
     }
 
-    // Calcula la resta de los 2 String y devuelve un String con el formato
-    // correcto.
-    public static String calcularResta(String cadena) {
-        String numeroDes = OrdenarDescendente(cadena);
-        String numeroAsc = OrdenarAscendente(cadena);
-        String aux = String.valueOf(Integer.parseInt(numeroDes) - Integer.parseInt(numeroAsc));
+    public static String calcularResta(String numero) {
+        String numeroDes = OrdenarDescendente(numero);
+        String numeroAsc = OrdenarAscendente(numero);
+        numero = String.valueOf(Integer.parseInt(numeroDes) - Integer.parseInt(numeroAsc));
 
-        while (aux.length() < 4) {
-            aux = "0" + aux;
+        while (numero.length() < 4) {
+            numero = "0" + numero;
         }
 
-        return aux;
+        return numero;
     }
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
-        int nCasos = sc.nextInt();
+        int casos = sc.nextInt();
 
-        for (int i = 0; i < nCasos; i++) {
+        for (int i = 0; i < casos; i++) {
 
-            String cadenaNumero = sc.next();
+            String numero = sc.next();
 
             // Si el numero es menor de 1000 se añaden ceros a la izquierda.
-            while (cadenaNumero.length() < 4) {
-                cadenaNumero = "0" + cadenaNumero;
+            while (numero.length() < 4) {
+                numero = "0" + numero;
             }
 
             // Si se trata de un repdigit se imprime 8.
-            if ((cadenaNumero.charAt(0) == cadenaNumero.charAt(1))
-                    && (cadenaNumero.charAt(1) == cadenaNumero.charAt(2))
-                    && (cadenaNumero.charAt(2) == cadenaNumero.charAt(3))) {
+            if ((numero.charAt(0) == numero.charAt(1))
+                    && (numero.charAt(1) == numero.charAt(2))
+                    && (numero.charAt(2) == numero.charAt(3))) {
                 System.out.println("8");
             } else {
                 int iteraciones = 0;
-                while (!cadenaNumero.equals("6174")) {
-                    cadenaNumero = calcularResta(cadenaNumero);
+                while (!numero.equals("6174")) {
+                    numero = calcularResta(numero);
                     iteraciones++;
                 }
                 System.out.println(iteraciones);
