@@ -33,3 +33,4 @@
 | 157    | [¿Cuantos Días Faltan?](https://aceptaelreto.com/problem/statement.php?id=157) | [📆](./Resueltos/157/A157.java) |
 | 158    | [Los Saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [⬆️⬇️](./Resueltos/158/A158.java) |
 | 160    | [Matrices triangulares](https://aceptaelreto.com/problem/statement.php?id=160) | [📐](./Resueltos/160/A160.java) |
+| 161    | [Cálculo de la Mediana](https://aceptaelreto.com/problem/statement.php?id=161) | [🔢](./Resueltos/161/A161.java) |
