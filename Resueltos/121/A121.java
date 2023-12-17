@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Chicles {
+public class A121 {
     public static void main(String[] args) throws Exception {
         
         Scanner teclado = new Scanner(System.in);
