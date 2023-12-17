@@ -6,9 +6,8 @@
 
 [Acepta el Reto](https://acepta-el-reto.com/) es una plataforma en línea que ofrece una colección de desafíos de programación y algorítmicos. Los problemas abarcan una amplia gama de dificultades, desde principiante hasta avanzado.
 
-## Enlaces a las distintas soluciones:
+## Enlaces a las soluciones:
 
 - [**Problema 100:** Constante de Kaprekar](https://github.com/PabloTaber/Acepta-el-Reto/blob/aa0371082525227dec022c306dc1a291b509d429/100%20-%20Constante%20de%20Kaprekar/A100.java).
 - [**Problema 102:** Encriptación de mensajes](https://github.com/PabloTaber/Acepta-el-Reto/blob/1830db477f694a022de5213f87afb1ab15c61921/102%20-%20Encriptaci%C3%B3n%20Mensajes/A102.java).
-
-
+- [**Problema 105:** Ventas](https://github.com/PabloTaber/Acepta-el-Reto/blob/feb0cf5fe8d8798c238ac53539308d628eacbab3/105%20-%20Ventas/A105.java)
