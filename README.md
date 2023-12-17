@@ -30,3 +30,7 @@
 - [**Problema 117:** La Fiesta Aburrida](https://aceptaelreto.com/problem/statement.php?id=117) 🎉😔
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/117/A117.java)
+
+- [**Problema 121:** Chicles de Regalo](https://aceptaelreto.com/problem/statement.php?id=121) 🍬🎁
+
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/121/A121.java)
