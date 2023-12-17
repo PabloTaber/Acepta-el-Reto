@@ -10,15 +10,15 @@
 
 - [**Problema 100:** Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) 🔢
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./100/A100.java)
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/100/A100.java)
 - [**Problema 102:** Encriptación de mensajes](https://aceptaelreto.com/problem/statement.php?id=102) 🔐 
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./102/A102.java)
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/102/A102.java)
 
 - [**Problema 105:** Ventas](https://aceptaelreto.com/problem/statement.php?id=105) 📊
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./105/A105.java)
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/105/A105.java)
 
 - [**Problema 109:** Liga de Padel](https://aceptaelreto.com/problem/statement.php?id=109) 🎾
 
-  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./109/A109.java)
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/109/A109.java)
