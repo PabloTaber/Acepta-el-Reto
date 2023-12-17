@@ -11,7 +11,7 @@
 - [**Problema 100:** Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) 🔢
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/100/A100.java)
-- [**Problema 102:** Encriptación de mensajes](https://aceptaelreto.com/problem/statement.php?id=102) 🔐 
+- [**Problema 102:** Encriptación de Mensajes](https://aceptaelreto.com/problem/statement.php?id=102) 🔐 
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/102/A102.java)
 
@@ -26,3 +26,7 @@
 - [**Problema 116:** Hola Mundo!](https://aceptaelreto.com/problem/statement.php?id=116) 👋🌎
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/116/A116.java)
+
+- [**Problema 117:** La Fiesta Aburrida](https://aceptaelreto.com/problem/statement.php?id=117) 🎉😔
+
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/117/A117.java)
