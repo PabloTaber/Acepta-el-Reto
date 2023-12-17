@@ -3,7 +3,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Tortitas {
+public class A143 {
     public static void main(String[] args) throws Exception {
         
         Scanner sc = new Scanner(System.in);
