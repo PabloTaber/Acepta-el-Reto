@@ -34,3 +34,7 @@
 - [**Problema 121:** Chicles de Regalo](https://aceptaelreto.com/problem/statement.php?id=121) 🍬🎁
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/121/A121.java)
+
+  - [**Problema 122:** Avituallamiento en las Etapas Ciclistas](https://aceptaelreto.com/problem/statement.php?id=122) 🚴‍♂️
+
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/122/A122.java)
