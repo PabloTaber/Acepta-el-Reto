@@ -22,6 +22,7 @@
 | 124    | [¿Cuántas me llevo?](https://aceptaelreto.com/problem/statement.php?id=124) | [🔢](./Resueltos/124/A124.java) |
 | 127    | [Una, dola, tela, catola...](https://aceptaelreto.com/problem/statement.php?id=127) | [1️⃣, 2️⃣, 3️⃣,...](./Resueltos/127/A127.java) |
 | 140    | [Suma de Dígitos](https://aceptaelreto.com/problem/statement.php?id=140) | [🔢](./Resueltos/140/A140.java) |
+| 141    | [Paréntesis Balanceados](https://aceptaelreto.com/problem/statement.php?id=141) | [`(`⚖️`)`](./Resueltos/141/A141.java) |
 
 
 
