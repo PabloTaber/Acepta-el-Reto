@@ -21,7 +21,7 @@
 | 123    | [Conjugar Verbos](https://aceptaelreto.com/problem/statement.php?id=123) | [📝](./Resueltos/123/A123.java) |
 | 124    | [¿Cuántas me llevo?](https://aceptaelreto.com/problem/statement.php?id=124) | [🔢](./Resueltos/124/A124.java) |
 | 127    | [Una, dola, tela, catola...](https://aceptaelreto.com/problem/statement.php?id=127) | [1️⃣, 2️⃣, 3️⃣,...](./Resueltos/127/A127.java) |
-
+| 140    | [Suma de Dígitos](https://aceptaelreto.com/problem/statement.php?id=140) | [🔢](./Resueltos/140/A140.java) |
 
 
 
