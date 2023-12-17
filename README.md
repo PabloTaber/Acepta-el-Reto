@@ -1,6 +1,6 @@
 # Repositorio de Soluciones para Acepta el Reto
 
-¡Bienvenido a mi repositorio de soluciones para los ejercicios de la plataforma Acepta el Reto! Aquí encontrarás las soluciones a los diversos problemas propuestos en la plataforma. Este repositorio lo he ido haciendo mientras aprendia **Java** en la asignatura de programación en primero de DAM, por lo que las soluciones no serán las más optimas. 
+¡Bienvenido a mi repositorio de soluciones para los ejercicios de la plataforma Acepta el Reto! Aquí encontrarás las soluciones a los diversos problemas propuestos en la plataforma. Este repositorio lo he ido haciendo mientras aprendia **Java** cursando la asignatura de programación en DAM en el [IES San Clemente](https://www.iessanclemente.net/), por lo que las soluciones no serán las más optimas. 
 
 ## ¿Qué es "Acepta el Reto"?
 
