@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hola {
+public class A116 {
     public static void main(String[] args) throws Exception {
         
         Scanner sc = new Scanner(System.in);
