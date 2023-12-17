@@ -22,3 +22,7 @@
 - [**Problema 109:** Liga de Padel](https://aceptaelreto.com/problem/statement.php?id=109) 🎾
 
   [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/109/A109.java)
+
+- [**Problema 116:** Hola Mundo!](https://aceptaelreto.com/problem/statement.php?id=116) 👋🌎
+
+  [![Solución](https://img.shields.io/badge/Soluci%C3%B3n-9cf?style=flat)](./Resueltos/116/A116.java)
