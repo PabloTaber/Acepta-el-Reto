@@ -41,3 +41,4 @@
 | 185    | [Potitos](https://aceptaelreto.com/problem/statement.php?id=185) | [🍼](./Resueltos/185/A185.java) |
 | 191    | [Los Problemas de Ser Rico](https://aceptaelreto.com/problem/statement.php?id=191) | [💰😓](./Resueltos/191/A191.java) |
 | 195    | [Saltos de Trampolín](https://aceptaelreto.com/problem/statement.php?id=195) | [🤸‍♂️🏊‍♂️](./Resueltos/195/A195.java) |
+| 214    | [Abdicación de un Rey](https://aceptaelreto.com/problem/statement.php?id=214) | [👑🔄](./Resueltos/214/A214.java) |
