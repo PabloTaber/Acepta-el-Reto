@@ -54,3 +54,4 @@
 | 300    | [Palabras Pentavocálicas](https://aceptaelreto.com/problem/statement.php?id=300) | [🔤](./Resueltos/300/A300.java) |
 | 310    | [Altura de un Árbol General](https://aceptaelreto.com/problem/statement.php?id=310) | [🎄](./Resueltos/310/A310.java) |
 | 313    | [Fin de Mes](https://aceptaelreto.com/problem/statement.php?id=313) | [📆](./Resueltos/313/A313.java) |
+| 314    | [Temperaturas Extremas](https://aceptaelreto.com/problem/statement.php?id=314) | [🌡️](./Resueltos/314/A314.java) |
