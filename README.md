@@ -55,3 +55,4 @@
 | 310    | [Altura de un Árbol General](https://aceptaelreto.com/problem/statement.php?id=310) | [🎄](./Resueltos/310/A310.java) |
 | 313    | [Fin de Mes](https://aceptaelreto.com/problem/statement.php?id=313) | [📆](./Resueltos/313/A313.java) |
 | 314    | [Temperaturas Extremas](https://aceptaelreto.com/problem/statement.php?id=314) | [🌡️](./Resueltos/314/A314.java) |
+| 331    | [Parrilla de Salida](https://aceptaelreto.com/problem/statement.php?id=331) | [🏎️](./Resueltos/331/A331.java) |

@@ -1,9 +1,8 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Parrilla {
+public class A331 {
     public static void main(String[] args) throws Exception {
-
         Scanner sc = new Scanner(System.in);
         int nPilotos = sc.nextInt();
 
