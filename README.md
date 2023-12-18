@@ -36,3 +36,4 @@
 | 161    | [Cálculo de la Mediana](https://aceptaelreto.com/problem/statement.php?id=161) | [🔢](./Resueltos/161/A161.java) |
 | 162    | [Tableros de Ajedrez](https://aceptaelreto.com/problem/statement.php?id=162) | [♔♕♖♗♘♙](./Resueltos/162/A162.java) |
 | 165    | [Número hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [🔢](./Resueltos/165/A165.java) |
+| 166    | [Zapping](https://aceptaelreto.com/problem/statement.php?id=166) | [📺](./Resueltos/166/A166.java) |
