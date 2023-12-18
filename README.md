@@ -56,3 +56,4 @@
 | 313    | [Fin de Mes](https://aceptaelreto.com/problem/statement.php?id=313) | [📆](./Resueltos/313/A313.java) |
 | 314    | [Temperaturas Extremas](https://aceptaelreto.com/problem/statement.php?id=314) | [🌡️](./Resueltos/314/A314.java) |
 | 331    | [Parrilla de Salida](https://aceptaelreto.com/problem/statement.php?id=331) | [🏎️](./Resueltos/331/A331.java) |
+| 334    | [Galos, Romanos y Otras Gentes](https://aceptaelreto.com/problem/statement.php?id=334) | [🇫🇷🇮🇹](./Resueltos/334/A334.java) |
