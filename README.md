@@ -45,3 +45,4 @@
 | 216    | [Goteras](https://aceptaelreto.com/problem/statement.php?id=216) | [🌧️🏠](./Resueltos/216/A216.java) |
 | 217    | [¿Qué Lado de la Calle?](https://aceptaelreto.com/problem/statement.php?id=217) | [🤔🛣️](./Resueltos/217/A217.java) |
 | 219    | [La Lotería de la Peña Atlética](https://aceptaelreto.com/problem/statement.php?id=219) | [🎫](./Resueltos/219/A219.java) |
+| 222    | [Serie de Potencias](https://aceptaelreto.com/problem/statement.php?id=222) | [🔢](./Resueltos/222/A222.java) |

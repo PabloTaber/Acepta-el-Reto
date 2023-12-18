@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class a222 {
-    
+public class A222 {
+
     public static void main(String[] args) throws Exception {
-        
+
         final Scanner sc = new Scanner(System.in);
 
         while (sc.hasNext()) {
