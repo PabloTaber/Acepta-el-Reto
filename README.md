@@ -39,4 +39,5 @@
 | 166    | [Zapping](https://aceptaelreto.com/problem/statement.php?id=166) | [📺](./Resueltos/166/A166.java) |
 | 176    | [Campo de Minas](https://aceptaelreto.com/problem/statement.php?id=176) | [💣](./Resueltos/176/A176.java) |
 | 185    | [Potitos](https://aceptaelreto.com/problem/statement.php?id=185) | [🍼](./Resueltos/185/A185.java) |
-| 191    | [Los Problemas de Ser Rico](https://aceptaelreto.com/problem/statement.php?id=191) | [🍼](./Resueltos/191/A191.java) |
+| 191    | [Los Problemas de Ser Rico](https://aceptaelreto.com/problem/statement.php?id=191) | [💰😓](./Resueltos/191/A191.java) |
+| 195    | [Saltos de Trampolín](https://aceptaelreto.com/problem/statement.php?id=195) | [🤸‍♂️🏊‍♂️](./Resueltos/195/A195.java) |
