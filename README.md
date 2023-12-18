@@ -38,3 +38,4 @@
 | 165    | [Número Hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [🔢](./Resueltos/165/A165.java) |
 | 166    | [Zapping](https://aceptaelreto.com/problem/statement.php?id=166) | [📺](./Resueltos/166/A166.java) |
 | 176    | [Campo de Minas](https://aceptaelreto.com/problem/statement.php?id=176) | [💣](./Resueltos/176/A176.java) |
+| 185    | [Potitos](https://aceptaelreto.com/problem/statement.php?id=185) | [🍼](./Resueltos/185/A185.java) |
