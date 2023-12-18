@@ -43,3 +43,4 @@
 | 195    | [Saltos de Trampolín](https://aceptaelreto.com/problem/statement.php?id=195) | [🤸‍♂️🏊‍♂️](./Resueltos/195/A195.java) |
 | 214    | [Abdicación de un Rey](https://aceptaelreto.com/problem/statement.php?id=214) | [👑🔄](./Resueltos/214/A214.java) |
 | 216    | [Goteras](https://aceptaelreto.com/problem/statement.php?id=216) | [🌧️🏠](./Resueltos/216/A216.java) |
+| 217    | [¿Qué Lado de la Calle?](https://aceptaelreto.com/problem/statement.php?id=217) | [🌧️🏠](./Resueltos/217/A217.java) |
