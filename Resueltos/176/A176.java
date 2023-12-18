@@ -10,7 +10,6 @@ public class Buscaminas {
             for (int j=Math.max(0, columna-1); j < Math.min(tablero[i].length, columna+2); j++) {
                 if (tablero[i][j] == '*') {
                     recuento++;
-                    //tablero[i][j] = '#';
                 }
             }
         }
@@ -43,7 +42,6 @@ public class Buscaminas {
             }
 
             System.out.println(minas);
-
             columnas = sc.nextInt();
             filas = sc.nextInt();
         }
