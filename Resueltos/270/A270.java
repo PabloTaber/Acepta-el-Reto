@@ -3,9 +3,9 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeMap;
 
-public class App {
+public class A270 {
     public static void main(String[] args) throws Exception {
-   
+
         Scanner sc = new Scanner(System.in);
         int numeroEjercicios = Integer.parseInt(sc.nextLine());
 
@@ -19,12 +19,12 @@ public class App {
                 evaluacion.put(alumno, evaluacion.containsKey(alumno) ? nota : evaluacion.get(alumno) + nota);
             }
 
-           Set<String> alumnos = evaluacion.keySet();
+            Set<String> alumnos = evaluacion.keySet();
 
             for (String alumno : alumnos) {
                 if (evaluacion.get(alumno) != 0) {
                     System.out.println(alumno + ", " + evaluacion.get(alumno));
-                }  
+                }
             }
 
             System.out.println("---");
