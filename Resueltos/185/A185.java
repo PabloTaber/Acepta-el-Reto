@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class App {
+public class A185 {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
@@ -15,7 +15,6 @@ public class App {
             
 
             for (int i = 0; i < casos; i++) {
-
                 String palabra = sc.next();
                 String alimentos = sc.next();
 
