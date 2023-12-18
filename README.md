@@ -10,7 +10,7 @@
 
 | Número | Enunciado              | Solución                               |
 |:------:|-------------------------|:--------------------------------------:|
-| 100 | [Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) | [🔢](./Resueltos/100/A100.java) |
+| 100    | [Constante de Kaprekar](https://aceptaelreto.com/problem/statement.php?id=100) | [🔢](./Resueltos/100/A100.java) |
 | 102    | [Encriptación de Mensajes](https://aceptaelreto.com/problem/statement.php?id=102) | [🔐](./Resueltos/102/A102.java)       |
 | 105    | [Ventas](https://aceptaelreto.com/problem/statement.php?id=105)                 | [📊](./Resueltos/105/A105.java)       |
 | 109    | [Liga de Padel](https://aceptaelreto.com/problem/statement.php?id=109)           | [🎾](./Resueltos/109/A109.java)       |
