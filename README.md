@@ -20,7 +20,7 @@
 | 122    | [Avituallamiento en las Etapas Ciclistas](https://aceptaelreto.com/problem/statement.php?id=122) | [🚴‍♂️](./Resueltos/122/A122.java) |
 | 123    | [Conjugar Verbos](https://aceptaelreto.com/problem/statement.php?id=123) | [📝](./Resueltos/123/A123.java) |
 | 124    | [¿Cuántas me llevo?](https://aceptaelreto.com/problem/statement.php?id=124) | [🔢](./Resueltos/124/A124.java) |
-| 127    | [Una, dola, tela, catola...](https://aceptaelreto.com/problem/statement.php?id=127) | [1️⃣, 2️⃣, 3️⃣,...](./Resueltos/127/A127.java) |
+| 127    | [Una, dola, tela, catola...](https://aceptaelreto.com/problem/statement.php?id=127) | [1️⃣, 2️⃣,...](./Resueltos/127/A127.java) |
 | 140    | [Suma de Dígitos](https://aceptaelreto.com/problem/statement.php?id=140) | [🔢](./Resueltos/140/A140.java) |
 | 141    | [Paréntesis Balanceados](https://aceptaelreto.com/problem/statement.php?id=141) | [`(`⚖️`)`](./Resueltos/141/A141.java) |
 | 143    | [Tortitas](https://aceptaelreto.com/problem/statement.php?id=143) | [🥞](./Resueltos/143/A143.java) |
@@ -34,6 +34,6 @@
 | 158    | [Los Saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [⬆️⬇️](./Resueltos/158/A158.java) |
 | 160    | [Matrices triangulares](https://aceptaelreto.com/problem/statement.php?id=160) | [📐](./Resueltos/160/A160.java) |
 | 161    | [Cálculo de la Mediana](https://aceptaelreto.com/problem/statement.php?id=161) | [🔢](./Resueltos/161/A161.java) |
-| 162    | [Tableros de Ajedrez](https://aceptaelreto.com/problem/statement.php?id=162) | [♔♕♖♗♘♙](./Resueltos/162/A162.java) |
-| 165    | [Número hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [🔢](./Resueltos/165/A165.java) |
-| 166    | [Zapping](https://aceptaelreto.com/problem/statement.php?id=166) | [📺](./Resueltos/166/A166.java) |
+| 162    | [Tableros de Ajedrez](https://aceptaelreto.com/problem/statement.php?id=162) | [♔♕♖](./Resueltos/162/A162.java) |
+| 165    | [Número Hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [🔢](./Resueltos/165/A165.java) |
+| 165    | [Número Hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [🔢](./Resueltos/165/A165.java) |
