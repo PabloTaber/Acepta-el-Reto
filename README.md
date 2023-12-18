@@ -48,3 +48,4 @@
 | 222    | [Serie de Potencias](https://aceptaelreto.com/problem/statement.php?id=222) | [🔢](./Resueltos/222/A222.java) |
 | 238    | [Repartiendo el Botín](https://aceptaelreto.com/problem/statement.php?id=238) | [💰💰](./Resueltos/238/A238.java) |
 | 244    | [Reinas Atacadas](https://aceptaelreto.com/problem/statement.php?id=244) | [👑💥](./Resueltos/244/A244.java) |
+| 252    | [¿Acaso hubo búhos acá?](https://aceptaelreto.com/problem/statement.php?id=252) | [🦉](./Resueltos/252/A252.java) |
