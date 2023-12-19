@@ -68,4 +68,6 @@
 | 441    | [Contar Hasta el Final](https://aceptaelreto.com/problem/statement.php?id=441) | [🔢](./Resueltos/441/A441.java) |
 | 452    | [Bingo Infantil](https://aceptaelreto.com/problem/statement.php?id=452) | [🧒🎉:🎲](./Resueltos/452/A452.java) |
 | 467    | [Polisílaba es Polisílaba](https://aceptaelreto.com/problem/statement.php?id=467) | [🔤](./Resueltos/467/A467.java) |
-| 473    | [Al Mundial en Transatlático](https://aceptaelreto.com/problem/statement.php?id=467) | [⚽️🚢](./Resueltos/467/A467.java) |
+| 473    | [Al Mundial en Transatlático](https://aceptaelreto.com/problem/statement.php?id=473) | [⚽️🚢](./Resueltos/473/A473.java) |
+| 521    | [¿Podemos Empezar?](https://aceptaelreto.com/problem/statement.php?id=521) | [🚦🤔](./Resueltos/521/A521.java) |
+| 578    | [Haciendo Inventario](https://aceptaelreto.com/problem/statement.php?id=578) | [📊📋](./Resueltos/578/A578.java) |
