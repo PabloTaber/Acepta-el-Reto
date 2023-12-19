@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class a336 {
+public class A336 {
     public static void main(String[] args) throws Exception {
         
         Scanner sc = new Scanner(System.in);
