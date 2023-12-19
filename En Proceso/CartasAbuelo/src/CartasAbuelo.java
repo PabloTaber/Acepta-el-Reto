@@ -1,35 +1,43 @@
-import java.util.Scanner;
-import java.util.Arrays;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class CartasAbuelo {
-    public static void main(String[] args) throws Exception {
-        
-        Scanner sc = new Scanner(System.in);
-        String linea = sc.nextLine();
-        int casos = sc.nextInt();
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String linea;
 
-        while (casos != 0) {
+        while (true) {
+            linea = br.readLine();
+            int numTest = Integer.parseInt(br.readLine().trim());
 
-            for (int i=0; i < casos; i++) {
-                Boolean iguales = false;
-                int intervalo1 = sc.nextInt();
-                int intervalo2 = sc.nextInt();
-
-                char[] subtexto = linea.substring(Math.min(intervalo1,intervalo2), Math.max(intervalo1, intervalo2)+1).toCharArray();
-                Arrays.sort(subtexto);
-                
-                if ( subtexto[0] == subtexto[subtexto.length-1] ) {
-                    iguales = true;
-                } 
-             
-            
-                System.out.println( iguales ? "SI" : "NO");
+            if (numTest == 0) {
+                return;
             }
-            
-        System.out.println();
-        sc.nextLine();
-        linea = sc.nextLine();
-        casos = sc.nextInt();
+
+            for (int i = 0; i < numTest; i++) {
+                String[] tokens = br.readLine().split(" ");
+                int inicio = Integer.parseInt(tokens[0]);
+                int fin = Integer.parseInt(tokens[1]);
+
+                if (inicio > fin) {
+                    int temp = inicio;
+                    inicio = fin;
+                    fin = temp;
+                }
+
+                boolean iguales = true;
+
+                for (int j = inicio; j < fin; j++) {
+                    if (linea.charAt(j) != linea.charAt(j + 1)) {
+                        iguales = false;
+                        break;
+                    }
+                }
+
+                System.out.println(iguales ? "SI" : "NO");
+            }
+            System.out.println();
         }
     }
 }
