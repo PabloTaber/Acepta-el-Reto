@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 static class FastReader {
@@ -44,23 +43,5 @@ static class FastReader {
             e.printStackTrace();
         }
         return str;
-    }
-}
-
-public class A371 {
-    public static void main(String[] args) {
-        FastReader teclado = new FastReader();
-        int lados = teclado.nextInt();
-
-        while (lados != 0) {
-            int palillos = 0;
-            
-            for (int i = lados; i > 0; i--) {
-                palillos = i + palillos;
-            }
-
-            System.out.println(palillos * 3);
-            lados = teclado.nextInt();
-        }
     }
 }
