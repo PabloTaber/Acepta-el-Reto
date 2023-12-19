@@ -67,4 +67,5 @@
 | 432    | [Escapando de las Fuerzas Imperiales](https://aceptaelreto.com/problem/statement.php?id=432) | [🦊🦆](./Resueltos/432/A432.java) |
 | 441    | [Contar Hasta el Final](https://aceptaelreto.com/problem/statement.php?id=441) | [🔢](./Resueltos/441/A441.java) |
 | 452    | [Bingo Infantil](https://aceptaelreto.com/problem/statement.php?id=452) | [🧒🎉:🎲](./Resueltos/452/A452.java) |
-| 467    | [Polisílaba es Polisílaba](https://aceptaelreto.com/problem/statement.php?id=467) | [](./Resueltos/467/A467.java) |
+| 467    | [Polisílaba es Polisílaba](https://aceptaelreto.com/problem/statement.php?id=467) | [🔤](./Resueltos/467/A467.java) |
+| 473    | [Al Mundial en Transatlático](https://aceptaelreto.com/problem/statement.php?id=467) | [⚽️🚢](./Resueltos/467/A467.java) |
