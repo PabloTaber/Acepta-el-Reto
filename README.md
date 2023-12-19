@@ -49,6 +49,7 @@
 | 238    | [Repartiendo el Botín](https://aceptaelreto.com/problem/statement.php?id=238) | [💰💰](./Resueltos/238/A238.java) |
 | 244    | [Reinas Atacadas](https://aceptaelreto.com/problem/statement.php?id=244) | [👑💥](./Resueltos/244/A244.java) |
 | 252    | [¿Acaso hubo búhos acá?](https://aceptaelreto.com/problem/statement.php?id=252) | [🦉](./Resueltos/252/A252.java) |
+| 254    | [Esquiando en Alaska](https://aceptaelreto.com/problem/statement.php?id=254) | [⛷️](./Resueltos/254/A254.java) |
 | 270    | [Me Pilló el Toro](https://aceptaelreto.com/problem/statement.php?id=270) | [🐂](./Resueltos/270/A270.java) |
 | 290    | [Altura de un Árbol Binario](https://aceptaelreto.com/problem/statement.php?id=290) | [🎄](./Resueltos/290/A290.java) |
 | 300    | [Palabras Pentavocálicas](https://aceptaelreto.com/problem/statement.php?id=300) | [🔤](./Resueltos/300/A300.java) |
@@ -66,4 +67,4 @@
 | 432    | [Escapando de las Fuerzas Imperiales](https://aceptaelreto.com/problem/statement.php?id=432) | [🦊🦆](./Resueltos/432/A432.java) |
 | 441    | [Contar Hasta el Final](https://aceptaelreto.com/problem/statement.php?id=441) | [🔢](./Resueltos/441/A441.java) |
 | 452    | [Bingo Infantil](https://aceptaelreto.com/problem/statement.php?id=452) | [🧒🎉:🎲](./Resueltos/452/A452.java) |
-| 467    | [Polisílaba es Polisílaba](https://aceptaelreto.com/problem/statement.php?id=467) | [🔤](./Resueltos/467/A467.java) |
+| 467    | [Polisílaba es Polisílaba](https://aceptaelreto.com/problem/statement.php?id=467) | [](./Resueltos/467/A467.java) |
