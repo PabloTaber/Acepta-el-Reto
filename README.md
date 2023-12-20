@@ -72,3 +72,11 @@
 | 473    | [Al Mundial en Transatlático](https://aceptaelreto.com/problem/statement.php?id=473) | [⚽️🚢](./Resueltos/473/A473.java) |
 | 521    | [¿Podemos Empezar?](https://aceptaelreto.com/problem/statement.php?id=521) | [🚦🤔](./Resueltos/521/A521.java) |
 | 578    | [Haciendo Inventario](https://aceptaelreto.com/problem/statement.php?id=578) | [📊📋](./Resueltos/578/A578.java) |
+
+<script>
+    // Contar el número de filas en la tabla
+    var tableRows = document.querySelectorAll('table tr').length;
+
+    // Insertar el resultado en el documento
+    document.write("<p>Número total de problemas resueltos: " + (tableRows - 1) + "</p>");
+</script>
