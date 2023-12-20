@@ -60,7 +60,6 @@ public class A260 {
     public static void main(String[] args) {
         FastReader sc = new FastReader();
         int numeroCasos = sc.nextInt();
-        //sc.nextLine();
 
         for (int i = 0; i < numeroCasos; i++) {
             String palabra1 = sc.nextLine();
