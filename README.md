@@ -64,7 +64,7 @@
 | 368    | [Cociendo Huevos](https://aceptaelreto.com/problem/statement.php?id=368) | [🥚🥚](./Resueltos/368/A368.java) |
 | 371    | [Aburrimiento en las Sobremesas](https://aceptaelreto.com/problem/statement.php?id=371) | [😕🍽️](./Resueltos/371/A371.java) |
 | 416    | [Michael J. Fox y el Pato Donald](https://aceptaelreto.com/problem/statement.php?id=416) | [🦊🦆](./Resueltos/416/A416.java) |
-| 432    | [Escapando de las Fuerzas Imperiales](https://aceptaelreto.com/problem/statement.php?id=432) | [🦊🦆](./Resueltos/432/A432.java) |
+| 432    | [Escapando de las Fuerzas Imperiales](https://aceptaelreto.com/problem/statement.php?id=432) | [🛸🚀](./Resueltos/432/A432.java) |
 | 441    | [Contar Hasta el Final](https://aceptaelreto.com/problem/statement.php?id=441) | [🔢](./Resueltos/441/A441.java) |
 | 452    | [Bingo Infantil](https://aceptaelreto.com/problem/statement.php?id=452) | [🧒🎉:🎲](./Resueltos/452/A452.java) |
 | 467    | [Polisílaba es Polisílaba](https://aceptaelreto.com/problem/statement.php?id=467) | [🔤](./Resueltos/467/A467.java) |
