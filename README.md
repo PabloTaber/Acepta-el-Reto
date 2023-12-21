@@ -51,6 +51,7 @@
 | 252    | [¿Acaso hubo búhos acá?](https://aceptaelreto.com/problem/statement.php?id=252) | [🦉](./Resueltos/252/A252.java) |
 | 254    | [Esquiando en Alaska](https://aceptaelreto.com/problem/statement.php?id=254) | [⛷️](./Resueltos/254/A254.java) |
 | 260    | [Alan Smithee](https://aceptaelreto.com/problem/statement.php?id=260) | [🔤](./Resueltos/260/A260.java) |
+| 265    | [Suma Descendente](https://aceptaelreto.com/problem/statement.php?id=265) | [🔢](./Resueltos/265/A265.java) |
 | 270    | [Me Pilló el Toro](https://aceptaelreto.com/problem/statement.php?id=270) | [🐂](./Resueltos/270/A270.java) |
 | 290    | [Altura de un Árbol Binario](https://aceptaelreto.com/problem/statement.php?id=290) | [🎄](./Resueltos/290/A290.java) |
 | 300    | [Palabras Pentavocálicas](https://aceptaelreto.com/problem/statement.php?id=300) | [🔤](./Resueltos/300/A300.java) |
