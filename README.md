@@ -56,6 +56,7 @@
 | 268    | [Desarrollos en las Bicicletas](https://aceptaelreto.com/problem/statement.php?id=268) | [🚴🏻](./Resueltos/268/A268.java) |
 | 269    | [Entrenando Para la Vuelta Viclista](https://aceptaelreto.com/problem/statement.php?id=269) | [🚴🏻](./Resueltos/269/A269.java) |
 | 270    | [Me Pilló el Toro](https://aceptaelreto.com/problem/statement.php?id=270) | [🐂](./Resueltos/270/A270.java) |
+| 272    | [Tres Dedos en Cada Mano](https://aceptaelreto.com/problem/statement.php?id=272) | [🤟](./Resueltos/272/A272.java) |
 | 290    | [Altura de un Árbol Binario](https://aceptaelreto.com/problem/statement.php?id=290) | [🎄](./Resueltos/290/A290.java) |
 | 300    | [Palabras Pentavocálicas](https://aceptaelreto.com/problem/statement.php?id=300) | [🔤](./Resueltos/300/A300.java) |
 | 310    | [Altura de un Árbol General](https://aceptaelreto.com/problem/statement.php?id=310) | [🎄](./Resueltos/310/A310.java) |
